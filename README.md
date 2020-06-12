@@ -1,5 +1,6 @@
+<div dir = "rtl">
 
-# واجب  - 4
+# واجب - رقم 4
 ### الخطوات 
 
 <br>
@@ -14,7 +15,7 @@
 <br>
 <hr>
 
-### !بونص 
+### بونص!
 
 <br>
 
@@ -25,6 +26,8 @@
 <hr>
 <b>آخر موعد لرفع الكود
 
-&#x202b; dd/mm/yyyy
+&#x202b; 26/6/2020
 
 ![alt text](https://lh4.googleusercontent.com/dm9T_iz8OnZRN0W6ETaiJ1u9vFi_YyPcgattIdJ-VdWUqspzcf8mg5cfHZPIR2jXaYfLNIH20XjHMRHxgJjkTnUQsfUxraV9iEXCDDPPRhGQoNxdXc-WIg9K2I5N80tdm9eG5Iza5l8)
+
+</div>
